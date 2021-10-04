@@ -14,3 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+
+# Python3-CookBook:https://python3-cookbook.readthedocs.io/zh_CN/latest/index.html
